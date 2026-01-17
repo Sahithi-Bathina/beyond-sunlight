@@ -6,7 +6,7 @@
 ## 📖 Project Overview
 **Oceanus Vitae** (Latin for "Ocean of Life") is a technical and narrative simulation of **Abyssis**, a hypothetical aquatic world. In this environment, life thrives in total darkness, powered not by the sun, but by **chemosynthesis**.
 
-[cite_start]This project explores the intersection of **Astrobiology** and **Software Engineering**, modeling how life adapts to extreme, high-pressure environments.
+\This project explores the intersection of **Astrobiology** and **Software Engineering**, modeling how life adapts to extreme, high-pressure environments.
 
 🔗 **[Live Demo](https://sahithi-bathina.github.io/beyond-sunlight/)**
 
