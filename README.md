@@ -1,60 +1,52 @@
-Oceanus Vitae: Beyond Sunlight 🌊🚀
+# 🌊 Oceanus Vitae: Beyond Sunlight
+### 🏆 Award: Best Global Connection | NASA Space Apps Challenge
 
-Award: Best Global Connection | NASA Space Apps Challenge Team Name: Space_Explorers
+---
 
-Role: Team Lead (Sahithi Bathina)
+## 📖 Project Overview
+**Oceanus Vitae** (Latin for "Ocean of Life") is a technical and narrative simulation of **Abyssis**, a hypothetical aquatic world. [cite_start]In this environment, life thrives in total darkness, powered not by the sun, but by **chemosynthesis**[cite: 1, 2, 9]. 
 
-Live Demo: https://sahithi-bathina.github.io/beyond-sunlight/
-🌟 Project Overview
+[cite_start]This project explores the intersection of **Astrobiology** and **Software Engineering**, modeling how life adapts to extreme, high-pressure environments[cite: 48, 50].
 
-Oceanus Vitae is a conceptual and technical exploration of Abyssis, a hypothetical aquatic world where life is sustained not by sunlight, but by chemosynthesis. Developed for the NASA Space Apps Challenge, this project translates complex astrobiological principles into a compelling visual and narrative experience.
+🔗 **[Live Demo](https://sahithi-bathina.github.io/beyond-sunlight/)**
 
-    "Life thrives in darkness, fueled by the light of chemical reactions." 
+---
 
-🧪 Scientific Logic & Ecosystem
+## 🧪 Scientific Logic: The Trophic Hierarchy
+[cite_start]We engineered a 4-tier ecosystem based on chemical energy flow from hydrothermal vents[cite: 16, 26, 44]:
 
-The ecosystem of Abyssis is modeled after hydrothermal vents, which release chemicals like hydrogen sulfide that microbes use to produce energy in the absence of sunlight.
+| Role | Organism | Description |
+| :--- | :--- | :--- |
+| **Primary Producers** | Chemosynthetic Bacteria | [cite_start]Convert hydrogen sulfide into organic matter[cite: 23, 25]. |
+| **Vent Grazers** | Vorgoths & Gulpers | [cite_start]Filter-feeders that consume bacterial mats[cite: 29, 31]. |
+| **Chemovores** | Void Serpents | [cite_start]Nektonic hunters that track prey via chemical signatures[cite: 35, 36]. |
+| **Predators** | Abyss Spiders | [cite_start]Ambush predators using bioluminescent lures[cite: 37]. |
+| **Decomposers** | Deeproot Worms | [cite_start]Recycle nutrients to maintain ecosystem health[cite: 41, 42]. |
 
-The Trophic Hierarchy :
+---
 
-    Chemosynthetic Primary Producers: Bacteria and archaea that convert hydrogen sulfide and methane into organic matter, forming the base of the food chain.
+## 🛠️ Technical Stack
+[cite_start]The platform was built using a mix of modern web technologies and AI integration[cite: 53, 59]:
 
-    Vent Grazers (Herbivores): * Gulpers: Snail-like creatures that graze on bacterial mats.
+* [cite_start]**Frontend:** HTML5, CSS3, JavaScript[cite: 60, 61, 62].
+* [cite_start]**AI Logic:** **ChatGPT** & **Blackbox AI** used for narrative architecture and energy flow simulation[cite: 54, 55].
+* [cite_start]**Multimedia:** Immersive video produced via **VN** and **CapCut**[cite: 56, 57, 58].
 
-        Vorgoths: Larger filter feeders that extract chemosynthetic bacteria from the water.
+---
 
-    Chemovores (Predators): * Void Serpents: Nektonic hunters that track prey using chemical signatures.
+## 🚀 Key Features
+* [cite_start]**Astrobiology Case Study:** Illustrates adaptation in environments drastically different from Earth[cite: 50, 51].
+* [cite_start]**Interactive Web Modules:** Explore Hydrothermal Vents and unique marine creatures[cite: 17, 64].
+* [cite_start]**Visual Storytelling:** A deep-dive video showcasing the "Abyssis" world[cite: 14].
 
-        Abyss Spiders: Ambush predators that use bioluminescent lures to attract prey.
+---
 
-    Decomposers: * Deeproot Worms: Organisms that break down organic matter to recycle nutrients and maintain ecosystem health.
+## 👥 The Team: Space_Explorers
+* [cite_start]**Sahithi Bathina** — *Team Lead* [cite: 71]
+* [cite_start]Keerthana [cite: 71]
+* [cite_start]Sanjitha [cite: 71]
+* [cite_start]Bindhu [cite: 71]
+* [cite_start]Harsthitha [cite: 71]
 
-💻 Tech Stack
-
-    Frontend: Built using HTML5, CSS3, and JavaScript to create interactive webpages.
-
-    AI Integration: Leveraged ChatGPT and Blackbox AI to architect complex narrative logic and biological simulations.
-
-    Video Production: Directed an immersive visual showcase using VN and CapCut.
-
-🛠️ Key Features
-
-    Interactive Web Modules: Detailed sections on Hydrothermal Vents, Cold Seeps, and unique marine creatures .
-
-    Ecosystem Dynamics Simulation: Models energy flow and nutrient cycling in extreme, high-pressure, and high-temperature environments.
-
-    Astrobiology Case Study: Illustrates the potential for life to adapt and thrive in environments drastically different from Earth.
-
-👥 The Space_Explorers Team
-
-    Sahithi Bathina (Team Lead)
-
-    Keerthana
-
-    Sanjitha
-
-    Bindhu
-
-    Harsthitha
-
-This project was recognized with the Best Global Connection award for its excellence in scientific storytelling and technical execution.
+---
+> [cite_start]*"Life thrives in darkness, fueled by the light of chemical reactions."* [cite: 68]
